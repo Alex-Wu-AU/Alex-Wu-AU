@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex-Wu-AU
-- 👀 I’m interested in software development, full stack development, cyber security and IoT
+- 👀 I’m interested in software/full-stack development, cyber security and IoT
 - 🌱 I’m a 2nd year undergraduate student of Computer Science at Deakin University
 - 🧰 Toolkits: C, C++, C#, Python, SQL, Linux, Agile
 - 🔰 Ec-council certified security specialist V9
