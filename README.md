@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Alex-Wu-AU
-- 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning computer science in Deakin University
-- 📫 How to reach me ...
+- 👀 I’m interested in software development, full stack development and IoT
+- 🌱 I’m currently learning Computer Ccience in Deakin University
+- 📫 Please contact me via: alex.nanwu@gmail.com
+- 
 
 <!---
 Alex-Wu-AU/Alex-Wu-AU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
