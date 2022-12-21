@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Wu-AU
 - 👀 I’m interested in software development, full stack development and IoT
-- 🌱 I’m currently learning Computer Ccience in Deakin University
+- 🌱 I’m currently learning Computer Science in Deakin University
 - 📫 Please contact me via: alex.nanwu@gmail.com
 - 
 
