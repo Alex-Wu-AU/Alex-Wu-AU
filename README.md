@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Wu-AU
-- 👀 I’m interested in software development, full stack development and IoT
-- 🌱 I’m in the 2nd year of Bachelor of Computer Science at Deakin University
-Alex-Wu-AU/Alex-Wu-AU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in software development, full stack development, cyber security and IoT
+- 🌱 I’m a 2nd year undergraduate student of Computer Science at Deakin University
+- 🧰 Toolkits: C, C++, C#, Python, SQL, Linux, Agile
+- 🔰 Ec-council certified security specialist V9
+- 📫 Please contact me via: alex.nanwu@gmail.com
