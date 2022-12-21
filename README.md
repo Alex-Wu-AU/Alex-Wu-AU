@@ -3,4 +3,4 @@
 - 🌱 I’m a 2nd year undergraduate student of Computer Science at Deakin University
 - 🧰 Toolkits: C, C++, C#, Python, SQL, Linux, Agile
 - 🔰 Ec-council certified security specialist V9
-- 📫 Please contact me via: alex.nanwu@gmail.com
+- 📫 Connect me via LikedIn [:globe_with_meridians:](www.linkedin.com/in/alex-wu-21b06a20a) 
