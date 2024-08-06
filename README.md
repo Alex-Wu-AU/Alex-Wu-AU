@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Wu-AU
 - 👀 I’m interested in software/full-stack development, cyber security and IoT
-- 🌱 I’m a 2nd year undergraduate student of Computer Science at Deakin University
-- 🧰 Toolkits: HTML, CSS, React, Node.js, C, C++, .NET, C#, Python, SQL, Linux, Agile
+- 🌱 I’m a 3rd year undergraduate student of Computer Science at Deakin University
+- 🧰 Toolkits: full-stack development: .NET, MongoDB, Prisma, nest.js, React, Vue3
 - 🔰 Ec-council certified security specialist V9
 - 📫 Connect me via LikedIn here: [:fast_forward:](www.linkedin.com/in/alex-wu-21b06a20a) 
